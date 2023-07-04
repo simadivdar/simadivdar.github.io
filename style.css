@@ -154,7 +154,7 @@ input[type=number]::-webkit-inner-spin-button {
 .menu {
   display: none;
   position: absolute;
-  bottom: 14rem;
+  bottom: 10rem;
   width: 16rem;
   height: 10rem;
   background-color: #FFF2F2;
